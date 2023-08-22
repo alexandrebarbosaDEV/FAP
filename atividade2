@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8"> 
+    <meta name="keywords" content="HTML, CSS, Web Design, Desenvolvimento Web"> 
+
+    <title>Meu Site</title>
+  </head>
+  <body>
+    <header>
+      <span>
+      <img src="/FAP/_39ae9c07-cb3f-4d18-a4d4-246ca224e79d.jpg" alt="imagem principal" width="200" height="200" alt="Ir para Sobre Mim">
+  
+      <h1>Eurotour</h1>
+      <p>Conheça os pontos turísticos da Europa</p></span>
+    </header>
+      <section>
+        <h2>Arte</h2>
+        <p>Para conhecer as mais lindas obras de arte, visite o museu do Louvre, em Paris, na França</p>
+        <a href="franca.html">
+<img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/01/mona-lisa-a-obra-mais-famosa-de-leonardo-da-vinci.jpg" alt="imagem principal" width="300" alt="Monalisa"></a>
+<br>
+<h2>Comida</h2>
+        <p>Para comer as melhores massas, claro, você não pode deixar de ir à Itália. Mama mia!</p>
+        <a href="italia.html">
+<img src="https://mammajamma.com.br/wp-content/uploads/2022/04/como-cozinhar-macarrao.webp" alt="imagem principal" width="300" alt="Macarronada"></a>
+<br>
+<h2>Bebida</h2>
+        <p>Para tomar as cervejas mais geladas, a Alemanha não pode ficar de fora do roteiro!</p>
+        <a href="alemanha.html">
+<img src="https://deixadefrescura.com/wp-content/uploads/2017/05/cerveja-na-alemanha-3-748x350.jpg" alt="imagem principal" width="300" alt="cerveja"></a>
+      </section>
+      <section>
+        <h2>Preencha o Formulário para garantir a sua vaga nesta viagem</h2>
+<form action="processar_formulario.php" method="post">
+  <label for="nome">Nome:</label>
+  <input type="text" id="nome" name="nome" required>
+  <p><label for="email">Email:</label>
+  <input type="email" id="email" name="email" required>
+  <button type="submit">Enviar</button></p>
+  <p><label for="cor">Escolha o seu pacote:</label>
+<select id="cor" name="cor">
+    <option value="pacote1">Pacote 1</option>
+    <option value="pacote2">Pacote 2</option>
+    <option value="pacote3">Pacote 3</option>
+</select></p>
+
+</form>
+
+</section>
+  
+
+  </body>
+</html>
