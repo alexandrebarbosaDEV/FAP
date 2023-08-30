@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Pontos Turísticos do Recife</title>
+</head>
+
+<body>
+  <header>
+    <h1>Pontos Turísticos do Recife</h1>
+    <hr>
+  </header>
+  <div class="content">
+    <h2>Marco Zero</h2>
+    <img src="https://www.viajali.com.br/wp-content/uploads/2022/11/marco-zero-recife-2-730x449.jpg" alt="marco zero" width="400">
+    <img src="https://assets.folhavitoria.com.br/images/a86fed70-74bf-0135-9f10-6231c35b6685--minified.jpg" alt="marco zero 2" width="450">
+  </div>
+  <footer>
+    <hr>
+    Desenvolvido por Alexandre Barbosa
+  </footer>
+</body>
+
+</html>
