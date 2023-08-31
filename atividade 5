@@ -1,0 +1,38 @@
+div.lugares-conteudo {
+  background-color: aqua;
+  width: 50%;
+  display: inline-block;
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 32px;
+  color: red;
+}
+
+
+h2 {
+  text-align: center;
+  font-size: 24px;
+  color: blue;
+}
+
+
+h3 {
+  text-align: center;
+  font-size: 16px;
+  color: yellow;
+}
+
+
+div.lugares-imagem {
+  background-color: aliceblue;
+  width: 50%;
+  display: inline-block;
+}
+
+
+div.section-lugares-favoritos {
+  display: flex;
+}
