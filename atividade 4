@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Meus Lugares</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/Users/AlunoFAP/Documents/Alexandre/estilo.css"
+    />
+  </head>
+  <body>
+    <h1>Meus lugares favoritos no Recife</h1>
+    <div class="section-lugares-favoritos">
+      <div class="lugares-conteudo">
+        <h2>Bairro da Torre</h2>
+        <h3>É o bairro onde moro</h3>
+        <p>
+          Quando o assunto é o Bairro da Torre, sem dúvida, estamos falando de
+          um dos lugares mais completos para se morar no Recife. Com ótima
+          localização, o bairro é conhecido por ser residencial e, por isso, é
+          cercado de conveniências que tornam o dia a dia mais fácil, como
+          supermercados, grandes lojas, cafeterias, bancos e postos de gasolina.
+          Saiba mais sobre esse bairro que tem tudo o que você precisa bem
+          pertinho e é uma ótima opção para morar na Zona Norte. Conhecido por
+          suas ruas arborizadas e temperaturas mais amenas, o bairro é vizinho
+          do Madalena e, também, do Rio Capibaribe. Um bairro familiar como a
+          Torre não poderia deixar de concentrar boas escolas. Para marcar ainda
+          mais a característica familiar da Torre, não dá para não citar a
+          quantidade de serviços e lojas para animais de estimação, como o Pet
+          Villa Torre, a Clínica Veterinária Arionaldo de Sá e o Beleza Cão e
+          Gato, só para citar alguns exemplos. Em primeiro lugar, a região
+          agrega um mix de negócios e comércios tradicionais da cidade e,
+          simultaneamente, atrai grandes redes como o Pão de Açúcar e o
+          Carrefour.
+        </p>
+        <h2>Recife Antigo</h2>
+        <h3>O bairro onde nasceu o Recife</h3>
+        <p>
+          Recife Antigo é o bairro onde se encontra o centro histórico da
+          capital de Pernambuco. Além dos próprios casarões já serem uma atração
+          para os viajantes, muitas destas construções abrigam museus, centros
+          culturais e restaurantes.
+        </p>
+        <h2>Praia de Boa Viagem</h2>
+        <h3>Porque todo mundo curte uma praia</h3>
+        <p>
+          A principal praia de Recife tem um agitado calçadão de 9 km de
+          extensão, com ciclovia e quiosques. Na altura do Segundo Jardim, é
+          reduto de bares, como o Quiosque da Barracuda.
+        </p>
+      </div>
+      <div class="lugares-imagem">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/5/57/Bairro_da_Torre_e_o_Rio_Capibaribe_vistos_do_Bairro_da_Jaqueira_-_Recife%2C_Pernambuco%2C_Brasil.jpg"
+          alt="bairro-da-torre"
+          width="300px"
+          height="300px"
+        />
+        <br />
+        <img
+          src="https://www.voltologo.net/wp-content/uploads/2023/01/recife-antigo-roteiro.jpg"
+          alt="bairro-do-Recife"
+          width="300px"
+          height="300px"
+        />
+        <br />
+        <img
+          src="https://www.voltologo.net/wp-content/uploads/2023/01/praia-de-boa-viagem-2023.jpg"
+          alt="praia-de-boa-viagem"
+          width="300px"
+          height="300px"
+        />
+      </div>
+    </div>
+  </body>
+</html>
